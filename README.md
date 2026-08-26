@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Sonoxo fork status — upstream project**
+>
+> This repository is a Sonoxo-owned fork used for compatibility and integration experiments. The original project is maintained by [Open WebUI contributors](https://github.com/open-webui/open-webui); its branding, documentation, licenses, releases, and support channels remain upstream. Sonoxo does **not** claim authorship, official affiliation, endorsement, or that this fork is currently synchronized, tested, or production-ready. Check the [canonical repository](https://github.com/open-webui/open-webui) before installing or contributing.
+
+---
+
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
